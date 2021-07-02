@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vunokim&repo=vunokim">
 <h1 align="center">Hi 👋, I'm vunokim</h1>
 <h3 align="center">A passionate frontend QA from S.Korea</h3>
 
